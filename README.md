@@ -12,6 +12,7 @@
 - UE5 GAS, Lyra 구조 정리 및 실습
 - Unity6
 - C++ 알고리즘 풀이
+- CursorAI, Copilot
 
 ## 기술 스택
 - C++, C#, STL, Unreal Engine 5, Unity, DirectX, MFC, ImGui, WinAPI, Git, SVN
