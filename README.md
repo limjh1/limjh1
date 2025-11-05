@@ -11,7 +11,7 @@
 ## 최근
 - UE5 GAS, Lyra 구조 정리 및 실습
 - Unity6
-- C++ 코딩테스트 풀이 주 1회 업데이트
+- C++ 알고리즘 풀이
 
 ## 기술 스택
 - C++, C#, STL, Unreal Engine 5, Unity, DirectX, MFC, ImGui, WinAPI, Git, SVN
@@ -21,7 +21,7 @@
 - 컴퓨터 활용능력 1급
 
 ## 바로가기
-- 대표 포트폴리오(UE5): [DS1-DevSteady1](https://github.com/limjh1/DS1-DevSteady1) 
+- 대표 프로젝트(UE5/제작중): [DS1-DevSteady1](https://github.com/limjh1/DS1-DevSteady1) 
 - 블로그 : https://jaehyeok-dev.tistory.com/
 - 알고리즘: [algorithms-cpp](https://github.com/limjh1/algorithms-cpp)
 
