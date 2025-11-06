@@ -3,14 +3,14 @@
 
 ## Jh Lim
 - Game Client Developer (2Y)
-- C++, C#, Unreal Engine 5, Unity, DirectX, MFC, ImGui, WinAPI, Git, SVN
+- C++, C#, UE5, Unity6, DirectX
 
 ## Focus
 - Gameplay systems
 - Performance-oriented client dev
 
 ## Projects
-- DS1 - UE5 Portfolio (제작중) [DS1-DevSteady1](https://github.com/limjh1/DS1-DevSteady1) 
+- DS1 - UE5 Portfolio [DS1-DevSteady1](https://github.com/limjh1/DS1-DevSteady1) 
 
 ## Links
 - 블로그 : https://jaehyeok-dev.tistory.com/
