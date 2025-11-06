@@ -10,11 +10,11 @@
 - Performance-oriented client dev
 
 ## Projects
-- DS1 - UE5 Portfolio [DS1-DevSteady1](https://github.com/limjh1/DS1-DevSteady1) 
+- DS1 - UE5 Portfolio : [DS1-DevSteady1](https://github.com/limjh1/DS1-DevSteady1) 
 
 ## Links
-- 블로그 : https://jaehyeok-dev.tistory.com/
-- 알고리즘: [algorithms-cpp](https://github.com/limjh1/algorithms-cpp)
+- Blog : https://jaehyeok-dev.tistory.com/
+- Algorithms : [algorithms-cpp](https://github.com/limjh1/algorithms-cpp)
 
 ---
 
