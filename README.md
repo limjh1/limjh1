@@ -10,7 +10,7 @@
 - Performance-oriented client dev
 
 ## Projects
-- DS1 - UE5 Portfolio : [DS1-DevSteady1](https://github.com/limjh1/DS1-DevSteady1) 
+- Project JA - UE5 Portfolio : [Project-JA](https://github.com/limjh1/Project-JA) 
 
 ## Links
 - Blog : https://jaehyeok-dev.tistory.com/
